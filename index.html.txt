@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aditya Anand | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Aditya Anand</h1>
+    <p>AI & ML Enthusiast | ECE Student</p>
+</header>
+
+<section class="about">
+    <h2>About Me</h2>
+    <p>I am a B.Tech ECE student specializing in AI/ML. I enjoy building projects and learning new technologies.</p>
+</section>
+
+<section class="skills">
+    <h2>Skills</h2>
+    <ul>
+        <li>Python</li>
+        <li>C++</li>
+        <li>HTML, CSS</li>
+        <li>Machine Learning</li>
+        <li>Git & GitHub</li>
+    </ul>
+</section>
+
+<section class="projects">
+    <h2>Projects</h2>
+    <div class="card">
+        <h3>Portfolio Website</h3>
+        <p>Personal website using HTML & CSS</p>
+    </div>
+
+    <div class="card">
+        <h3>Student Performance Predictor</h3>
+        <p>ML model using Python</p>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 Aditya Anand</p>
+</footer>
+
+</body>
+</html>
